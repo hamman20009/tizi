@@ -2,7 +2,7 @@ const products = [
 	{
 		id: 2,
 		logo:'img/logo.png',
-		image: 'img/3.jpg',
+		image: 'img/2-01.png',
 		
 		title: 'مسمنة الماكا لتكبير الارداف و الصدرو القضاء على دهون البطن     '  ,
 		price1: 6900,
